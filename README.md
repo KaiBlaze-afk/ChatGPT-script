@@ -21,6 +21,10 @@ Then move the file to /bin/
 
 ```mv chatgpt /bin/```
 
+## Possible issues
+
+Your API is invalid or The ChatGPT servers are busy so you will get jq error 
+
 ## Now you are all set to use it
 
 Try Chatgpt with this command 
